@@ -1,2 +1,3 @@
-# repositorio-de-test
-Repositorio de test
+# REPOSITORIO-DE-TEST
+
+Este es mi primer repo de GitHub.
